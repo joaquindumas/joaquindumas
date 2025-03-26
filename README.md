@@ -3,7 +3,6 @@
 # 👋 Hi, I'm Wacks!
 👩🏻‍💻 Computer Engineer sharing about my journey and learnings in tech<br/>
 👩🏻‍🎓 Studied [Computer Engineering] at the De La Salle University - Dasmarinas Cavite<br/>
-💭 Currently learning about data analytics and machine learning!<br/>
 
 # 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
