@@ -19,5 +19,7 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=xsol05&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-profile-trophy.vercel.app/?username=xsol05&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=joaquindumas)
+
+![joaquindumas's Stats](https://github-readme-stats.vercel.app/api?username=joaquindumas&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
