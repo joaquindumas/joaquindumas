@@ -5,6 +5,16 @@
 
 I'm an aspiring front-end developer and creative designer, crafting digital experiences with a mix of logic and aesthetics. From coding, user-friendly interfaces to designing visuals that tell a story, I build from the ground up—planning, designing, and refining until everything clicks. Beyond the screen, I stay active as an athlete, always pushing limits and striving for growth in every aspect of life.
 
+
+<p align="left">
+  <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/joaquindumas?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/DenverCoder1?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/joaquindumas?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/joaquindumas">
+    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
+   </p>
+
 ---
 
 ### 🧰 Languages and Tools
