@@ -41,8 +41,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
 </div>
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=joaquindumas)
-
 ###
 
 <div align="left">
@@ -65,6 +63,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/joaquindumas/joaquindumas/output" alt="Snake animation" />
 
 
