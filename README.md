@@ -1,6 +1,7 @@
 # 🎱 Joaquin Dumas
 
-**'Computer Engineering Student (Developer/Designer/Athlete)'**
+`Computer Engineering Student (Developer/Designer/Athlete)`
+
 
 I'm an aspiring front-end developer and creative designer, crafting digital experiences with a mix of logic and aesthetics. From coding, user-friendly interfaces to designing visuals that tell a story, I build from the ground up—planning, designing, and refining until everything clicks. Beyond the screen, I stay active as an athlete, always pushing limits and striving for growth in every aspect of life.
 
