@@ -1,5 +1,7 @@
 <h2 align="left">Hi 👋 ! My name is Wacks and I'm a Computer Engineering student from De La Salle University - Cavite</h2>
 
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=joaquindumas)
+
 ###
 
 <div align="center">
@@ -65,4 +67,4 @@
 
 <img src="https://raw.githubusercontent.com/joaquindumas/joaquindumas/output" alt="Snake animation" />
 
-###
+
