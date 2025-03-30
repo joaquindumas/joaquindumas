@@ -1,7 +1,5 @@
 <h2 align="left">Hi 👋 ! My name is Wacks and I'm a Computer Engineering student from De La Salle University - Cavite</h2>
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=joaquindumas)
-
 ###
 
 <div align="center">
@@ -42,6 +40,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
 </div>
+
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=joaquindumas)
 
 ###
 
