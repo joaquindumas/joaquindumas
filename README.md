@@ -1,4 +1,4 @@
-# 🎱 Joaquin Dumas
+# 🎱 Joaquin Miguel Dumas
 
 `Computer Engineering Student (Developer/Designer/Athlete)`
 
